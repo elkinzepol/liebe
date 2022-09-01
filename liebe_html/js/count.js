@@ -1,7 +1,7 @@
 function diff() {
   //yyyy-MM-dd HH:mm:ss
 
-  var a = moment('2018-10-27 00:00:00'); // past time
+  var a = moment('2018-10-27 20:30:00'); // past time
   var b = moment(); // current time
   diff = moment.preciseDiff(a, b, true); // objects with years, months, days, hours, minutes, seconds
 
