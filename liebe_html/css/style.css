@@ -2452,3 +2452,11 @@ button.list-group-item:hover {
         display: block;
     }
 }
+
+.frontend{
+    color:#2e96d7
+  }
+  
+  #corazon{
+    color: rgb(147, 0, 0)
+  }
